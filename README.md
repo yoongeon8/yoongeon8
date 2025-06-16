@@ -1,7 +1,5 @@
 ## Welcome to my github
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=여기너아이디&utm_content=farm">
-  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yoongeon8&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/yoongeon8"
