@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=5272ff&height=120&text=꾸준히%20발전하고%20성장하는%20개발자%20윤건입니다!&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 제가 어떻게 하면 성장하고 발전할지 꾸준히 고민하는 개발자입니다. </div> 
   </div>
   <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
