@@ -20,7 +20,7 @@
   <h4 align="center">Backend</h4>
   <p align="center">
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,spring,django,flask&perline=10" />
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,spring,django,flask,fastapi&perline=10" />
       </a>
   </p>
   <h4 align="center">DataBase</h4>
