@@ -32,13 +32,13 @@
   <h4 align="center">Tools & Collaboration & Deploy</h4>
   <p align="center">
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,pycharm,figma,notion,netlify,cloudflare&perline=10" />
+      <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,pycharm,androidstudio,figma,notion,netlify,cloudflare&perline=10" />
       </a>
   </p>
   <h4 align="center">studying</h4>
   <p align="center">
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,supabase,postgres,flutter,dart,linux&perline=10" />
+      <img src="https://skillicons.dev/icons?i=docker,supabase,postgres,flutter,dart,linux,firebase&perline=10" />
       </a>
   </p>
   </div>
